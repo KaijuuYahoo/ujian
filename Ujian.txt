@@ -1,0 +1,15 @@
+1.	Perbedaan dari procedural dengan OOP procedural beroperasi secara sequence tanpa pemungkusan dalam suatu kelas maupun objek sedangkan OOP berorientasi berdasarkan objek ,semua funsi dan pengolahan data dibungkus dalam kelas dan objek
+2.	Membungkus suatu data atau fungsi untuk menjaga agar tidak adanya penyalahgunaan, dan penggunaan access modifier seperti private digunakan agar data ataupun fungsi tidak disalahgunakan oleh fungsi atau class lain dan tetap membuat sebuah variable maupun fungsi berjalan pada semestinya
+3.	Class : membungkus data abstraksi procedural atau rancangan dari sebuah object lebih mudah nya membungkus fungsi , data,variable pada sebuah blok yang sama
+Analogi nya : seperti dalam ruang kerja(class) disitu terdapat banyak alat(variable) dimana ada kegunaan nya masing masing tetapi apabila digabung kan maka akan terbentuk sebuah fungsi tertentu(function)
+Object: untuk mendefinisikan atau menggambarkan isi dan tingkah laku sebagai entitas
+Analogi nya : ruang kerja tersebut bisa ada banyak maka agar orang tidak salah ruangan maka perlu diberikan nama ruangan ruang fotokopi, ruang computer sama sama ruang kerja hanya saja beda isi dan fungsi 
+4.	Public : bebas diakses siapapun
+Private : hanya dapat diakses lewat friend function dan class itu sendiri dan yang mewarisi classnya
+Protected: hanya dapat diakses lewat friend function dan class itu sendiri dan yang mewarisi classnya
+5.	Digunakan untuk inisialisasi member – member atau melakukan ersiapan, setelah pembuatan object maka akan otomatis memanggil contructor
+6.	Fuction overloading: mengeksekusi ulang suatu atribut maupun method Dimana yang artinya dibuat ulang sedangkan overriding menumpuknya
+7.	Kegunaan nya berupa penghapusan object atau berakhirnya program. destructor biasanya berisi tugas untuk melakukan persiapan sebelum object tersebut dihapus
+8.	Class ataupun fuction yang memiliki hak special kepada class lain disaat kita ingin menggunakan variable atau fungsi dalam kelas yang bersifat private maupun protected
+9.	Apabila ingin memnujuk pada atribut dan method pada class itu sendiri
+10.	Ketika ingin membuat suatu atribut atau method yang berdiri sendiri yang Dimana  tidak akan memngaruhi object lain yang menggunakan class sama
